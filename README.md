@@ -5,3 +5,4 @@ Currently only controls the drive motors.
 Does not have a program for uncontrolled time.
 Has rear drive motors and front steering wheels.
 May need different motors reversed pending my testing.
+More functionality will be added when more functionality gets added to the bot.
